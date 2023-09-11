@@ -1,0 +1,346 @@
+{
+  "invitationData": [
+    {
+      "name": "TechConnect Seminar",
+      "instruction": "Bring your questions!",
+      "reason": "Product Showcase",
+      "location": "TechConnect HQ, Silicon Valley"
+    },
+    {
+      "name": "AI Innovation Workshop",
+      "instruction": "Laptop required for hands-on sessions.",
+      "reason": "Knowledge Sharing",
+      "location": "TechHub Convention Center, San Francisco"
+    },
+    {
+      "name": "Cybersecurity Symposium",
+      "instruction": "Security badge needed for entry.",
+      "reason": "Industry Insights",
+      "location": "SecureTech Conference Hall, New York"
+    },
+    {
+      "name": "IoT Solutions Webinar",
+      "instruction": "Join from the comfort of your home.",
+      "reason": "Webinar Series",
+      "location": "Online Event"
+    },
+    {
+      "name": "Cloud Computing Conference",
+      "instruction": "Prepare for networking opportunities.",
+      "reason": "Networking",
+      "location": "TechCloud Convention Center, Chicago"
+    },
+    {
+      "name": "Data Analytics Masterclass",
+      "instruction": "Bring your data samples.",
+      "reason": "Skill Enhancement",
+      "location": "TechInsights Academy, Los Angeles"
+    },
+    {
+      "name": "Blockchain Expo",
+      "instruction": "Download our event app for schedules.",
+      "reason": "Emerging Technologies",
+      "location": "Blockchain Expo Center, Miami"
+    },
+    {
+      "name": "AI in Healthcare Symposium",
+      "instruction": "Medical ID required for entry.",
+      "reason": "Healthcare Innovation",
+      "location": "HealthTech Auditorium, Boston"
+    },
+    {
+      "name": "Smart Cities Summit",
+      "instruction": "Plan your travel well in advance.",
+      "reason": "Urban Planning",
+      "location": "SmartCity Convention Hall, Seattle"
+    },
+    {
+      "name": "AR/VR Development Workshop",
+      "instruction": "Bring your VR headset if available.",
+      "reason": "Immersive Technologies",
+      "location": "TechReality Workshop, Dallas"
+    },
+    {
+      "name": "Big Data Analytics Conference",
+      "instruction": "Badge pickup opens at 8:00 AM.",
+      "reason": "Data Insights",
+      "location": "DataSphere Expo, Houston"
+    },
+    {
+      "name": "5G Networking Symposium",
+      "instruction": "Explore the future of connectivity.",
+      "reason": "Networking Solutions",
+      "location": "ConnectTech Arena, Las Vegas"
+    },
+    {
+      "name": "Machine Learning Bootcamp",
+      "instruction": "BYOL (Bring Your Own Laptop).",
+      "reason": "Skill Development",
+      "location": "TechCampus Training Center, San Diego"
+    },
+    {
+      "name": "Robotic Process Automation Seminar",
+      "instruction": "Learn about the future of automation.",
+      "reason": "Process Efficiency",
+      "location": "RPA Innovation Hub, Atlanta"
+    },
+    {
+      "name": "DevOps Expo",
+      "instruction": "Bring your appetite for innovation.",
+      "reason": "DevOps Culture",
+      "location": "DevOps World, Austin"
+    },
+    {
+      "name": "Artificial Intelligence Summit",
+      "instruction": "AI experts from around the world.",
+      "reason": "AI Revolution",
+      "location": "AI Central, Orlando"
+    },
+    {
+      "name": "Tech Solutions Showcase",
+      "instruction": "Explore our latest tech solutions.",
+      "reason": "Product Showcase",
+      "location": "TechSolutions Arena, Denver"
+    },
+    {
+      "name": "Data Privacy Forum",
+      "instruction": "Protecting your data in a connected world.",
+      "reason": "Privacy Awareness",
+      "location": "DataGuard Hall, Phoenix"
+    },
+    {
+      "name": "IoT Innovators Summit",
+      "instruction": "Discover IoT's limitless possibilities.",
+      "reason": "Innovation",
+      "location": "TechInnovate Center, Nashville"
+    },
+    {
+      "name": "Cloud Security Workshop",
+      "instruction": "Protecting your data in the cloud era.",
+      "reason": "Security",
+      "location": "SecureCloud Workshop, Detroit"
+    },
+    {
+      "name": "Futuristic Tech Expo",
+      "instruction": "Experience the tech of tomorrow.",
+      "reason": "Future Tech",
+      "location": "TechFutures Expo, Portland"
+    },
+    {
+      "name": "Digital Transformation Summit",
+      "instruction": "Navigate the digital transformation journey.",
+      "reason": "Transformation",
+      "location": "TechTransform Summit, Minneapolis"
+    },
+    {
+      "name": "AI-Powered Marketing Conference",
+      "instruction": "Unlock the potential of AI in marketing.",
+      "reason": "Marketing Insights",
+      "location": "AI-Advertise Hub, Charlotte"
+    },
+    {
+      "name": "Blockchain Developers' Meetup",
+      "instruction": "Hands-on coding sessions for blockchain devs.",
+      "reason": "Blockchain Development",
+      "location": "Blockchain Dev Center, Raleigh"
+    },
+    {
+      "name": "Health Tech Symposium",
+      "instruction": "Exploring tech's role in healthcare.",
+      "reason": "Healthcare Tech",
+      "location": "HealthTech Arena, Sacramento"
+    },
+    {
+      "name": "Smart Manufacturing Conference",
+      "instruction": "Connecting tech and industry.",
+      "reason": "Manufacturing",
+      "location": "SmartMfg Center, St. Louis"
+    },
+    {
+      "name": "Tech Entrepreneurs' Forum",
+      "instruction": "Networking for tech startups.",
+      "reason": "Entrepreneurship",
+      "location": "TechStartup Forum, Kansas City"
+    },
+    {
+      "name": "AI in Education Seminar",
+      "instruction": "AI's role in shaping the future of education.",
+      "reason": "Education",
+      "location": "TechEdu Symposium, Omaha"
+    },
+    {
+      "name": "Augmented Reality Expo",
+      "instruction": "Experience AR in action.",
+      "reason": "AR Exploration",
+      "location": "TechAR Expo, Honolulu"
+    },
+    {
+      "name": "Cloud Computing Bootcamp",
+      "instruction": "Master the cloud's potential.",
+      "reason": "Cloud Solutions",
+      "location": "TechCloud Campus, Anchorage"
+    },
+    {
+      "name": "Data Analytics Forum",
+      "instruction": "Unlocking insights from big data.",
+      "reason": "Analytics",
+      "location": "DataX Forum, Albuquerque"
+    },
+    {
+      "name": "5G Networking Workshop",
+      "instruction": "Exploring the future of connectivity.",
+      "reason": "5G Solutions",
+      "location": "ConnectTech Workshop, Tucson"
+    },
+    {
+      "name": "AI in Healthcare Symposium",
+      "instruction": "Medical ID required for entry.",
+      "reason": "Healthcare Innovation",
+      "location": "HealthTech Auditorium, Boston"
+    },
+    {
+      "name": "Smart Cities Summit",
+      "instruction": "Plan your travel well in advance.",
+      "reason": "Urban Planning",
+      "location": "SmartCity Convention Hall, Seattle"
+    },
+    {
+      "name": "AR/VR Development Workshop",
+      "instruction": "Bring your VR headset if available.",
+      "reason": "Immersive Technologies",
+      "location": "TechReality Workshop, Dallas"
+    },
+    {
+      "name": "Big Data Analytics Conference",
+      "instruction": "Badge pickup opens at 8:00 AM.",
+      "reason": "Data Insights",
+      "location": "DataSphere Expo, Houston"
+    },
+    {
+      "name": "5G Networking Symposium",
+      "instruction": "Explore the future of connectivity.",
+      "reason": "Networking Solutions",
+      "location": "ConnectTech Arena, Las Vegas"
+    },
+    {
+      "name": "Machine Learning Bootcamp",
+      "instruction": "BYOL (Bring Your Own Laptop).",
+      "reason": "Skill Development",
+      "location": "TechCampus Training Center, San Diego"
+    },
+    {
+      "name": "Robotic Process Automation Seminar",
+      "instruction": "Learn about the future of automation.",
+      "reason": "Process Efficiency",
+      "location": "RPA Innovation Hub, Atlanta"
+    },
+    {
+      "name": "DevOps Expo",
+      "instruction": "Bring your appetite for innovation.",
+      "reason": "DevOps Culture",
+      "location": "DevOps World, Austin"
+    },
+    {
+      "name": "Artificial Intelligence Summit",
+      "instruction": "AI experts from around the world.",
+      "reason": "AI Revolution",
+      "location": "AI Central, Orlando"
+    },
+    {
+      "name": "Tech Solutions Showcase",
+      "instruction": "Explore our latest tech solutions.",
+      "reason": "Product Showcase",
+      "location": "TechSolutions Arena, Denver"
+    },
+    {
+      "name": "Data Privacy Forum",
+      "instruction": "Protecting your data in a connected world.",
+      "reason": "Privacy Awareness",
+      "location": "DataGuard Hall, Phoenix"
+    },
+    {
+      "name": "IoT Innovators Summit",
+      "instruction": "Discover IoT's limitless possibilities.",
+      "reason": "Innovation",
+      "location": "TechInnovate Center, Nashville"
+    },
+    {
+      "name": "Cloud Security Workshop",
+      "instruction": "Protecting your data in the cloud era.",
+      "reason": "Security",
+      "location": "SecureCloud Workshop, Detroit"
+    },
+    {
+      "name": "Futuristic Tech Expo",
+      "instruction": "Experience the tech of tomorrow.",
+      "reason": "Future Tech",
+      "location": "TechFutures Expo, Portland"
+    },
+    {
+      "name": "Digital Transformation Summit",
+      "instruction": "Navigate the digital transformation journey.",
+      "reason": "Transformation",
+      "location": "TechTransform Summit, Minneapolis"
+    },
+    {
+      "name": "AI-Powered Marketing Conference",
+      "instruction": "Unlock the potential of AI in marketing.",
+      "reason": "Marketing Insights",
+      "location": "AI-Advertise Hub, Charlotte"
+    },
+    {
+      "name": "Blockchain Developers' Meetup",
+      "instruction": "Hands-on coding sessions for blockchain devs.",
+      "reason": "Blockchain Development",
+      "location": "Blockchain Dev Center, Raleigh"
+    },
+    {
+      "name": "Health Tech Symposium",
+      "instruction": "Exploring tech's role in healthcare.",
+      "reason": "Healthcare Tech",
+      "location": "HealthTech Arena, Sacramento"
+    },
+    {
+      "name": "Smart Manufacturing Conference",
+      "instruction": "Connecting tech and industry.",
+      "reason": "Manufacturing",
+      "location": "SmartMfg Center, St. Louis"
+    },
+    {
+      "name": "Tech Entrepreneurs' Forum",
+      "instruction": "Networking for tech startups.",
+      "reason": "Entrepreneurship",
+      "location": "TechStartup Forum, Kansas City"
+    },
+    {
+      "name": "AI in Education Seminar",
+      "instruction": "AI's role in shaping the future of education.",
+      "reason": "Education",
+      "location": "TechEdu Symposium, Omaha"
+    },
+    {
+      "name": "Augmented Reality Expo",
+      "instruction": "Experience AR in action.",
+      "reason": "AR Exploration",
+      "location": "TechAR Expo, Honolulu"
+    },
+    {
+      "name": "Cloud Computing Bootcamp",
+      "instruction": "Master the cloud's potential.",
+      "reason": "Cloud Solutions",
+      "location": "TechCloud Campus, Anchorage"
+    },
+    {
+      "name": "Data Analytics Forum",
+      "instruction": "Unlocking insights from big data.",
+      "reason": "Analytics",
+      "location": "DataX Forum, Albuquerque"
+    },
+    {
+      "name": "5G Networking Workshop",
+      "instruction": "Exploring the future of connectivity.",
+      "reason": "5G Solutions",
+      "location": "ConnectTech Workshop, Tucson"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Invitation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .invitation-container {
+            max-width: 600px;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+        .invitation-details {
+            font-size: 16px;
+        }
+        .send-email-btn {
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .send-email-btn:hover {
+            background-color: #2576b4;
+        }
+    </style>
+</head>
+<body>
+<div class="invitation-container">
+    <h2>Generated Invitation</h2>
+    <div class="invitation-details">
+        <p><strong>Name:</strong> <span id="name"></span></p>
+        <p><strong>Instruction:</strong> <span id="instruction"></span></p>
+        <p><strong>Reason:</strong> <span id="reason"></span></p>
+        <p><strong>Location:</strong> <span id="location"></span></p>
+
+    </div>
+    <button class="send-email-btn" id="send-email">Send Invitation Email</button>
+</div>
+
+<script>
+    function invitationData() {
+
+            // Access the input fields by their IDs
+            const nameInput = document.getElementById("name");
+            const instructionInput = document.getElementById("instruction");
+            const reasonInput = document.getElementById("reason");
+            const locationInput = document.getElementById("location");
+
+            // Retrieve the values entered by the user
+            const name = nameInput.value;
+            const instruction = instructionInput.value;
+            const reason = reasonInput.value;
+            const location = locationInput.value;
+
+            // You can now use these values as needed, such as sending them to your server
+            // or processing them to generate an invitation
+
+            // For example, you can create an object with these values:
+            // You can then return this object or use it in other functions.
+            return {
+                name: name,
+                instruction: instruction,
+                reason: reason,
+                location: location
+            };
+        }
+
+    }
+
+    fetch("/generate-invitation", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(invitationData)
+    })
+        .then(response => response.text())
+        .then(generatedInvitation => {
+            // Insert the generated invitation into your HTML element
+            document.getElementById("invitationContainer").innerHTML = generatedInvitation;
+        })
+        .catch(error => {
+            console.error("Error:", error);
+        });
+
+    const nameSpan = document.getElementById("name");
+    const instructionSpan = document.getElementById("instruction");
+    const reasonSpan = document.getElementById("reason");
+    const locationSpan = document.getElementById("location");
+
+    // Retrieve invitation details from URL query parameters or other sources
+    const queryParams = new URLSearchParams(window.location.search);
+    nameSpan.textContent = queryParams.get("name") || "";
+    instructionSpan.textContent = queryParams.get("instruction") || "";
+    reasonSpan.textContent = queryParams.get("reason") || "";
+    locationSpan.textContent = queryParams.get("location") || "";
+
+
+</script>
+</body>
+</html>
